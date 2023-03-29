@@ -1,3 +1,7 @@
+// lazy segtree from atcoder
+// under CC0 lincense
+// https://atcoder.github.io/ac-library/document_en/lazysegtree.html
+
 unsigned int bit_ceil(unsigned int n) {
     unsigned int x = 1;
     while (x < (unsigned int)(n)) x *= 2;
@@ -182,6 +186,8 @@ struct lazy_segtree {
     }
 };
 
+
+// example usage
 struct S {
     // # of 0 / # of 1 / inversion number
     int zero, one;
