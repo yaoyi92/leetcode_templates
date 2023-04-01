@@ -1,3 +1,7 @@
+// segtree from atcoder
+// under CC0 lincense
+// https://atcoder.github.io/ac-library/document_en/modint.html
+
 namespace internal {
 
 // @param m `1 <= m`
