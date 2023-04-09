@@ -1,4 +1,4 @@
-// segtree from atcoder
+// modint from atcoder
 // under CC0 lincense
 // https://atcoder.github.io/ac-library/document_en/modint.html
 
